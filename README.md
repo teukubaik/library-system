@@ -22,4 +22,4 @@ php artisan serve
 
 Author
 
-Waylend Yutani
+Teuku
